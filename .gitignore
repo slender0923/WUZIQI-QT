@@ -1,0 +1,18 @@
+# 忽略构建目录
+build/
+*.user
+*.pro.user
+*.o
+*.obj
+*.exe
+*.dll
+*.log
+*.json
+*.db
+*.sdf
+*.ipch
+*.tlog
+*.qrc.depends
+*.qrc.lock
+*.autosave
+*.DS_Store
